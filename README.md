@@ -1,1 +1,1 @@
-# LearningRepo
+# LearningAcademy
